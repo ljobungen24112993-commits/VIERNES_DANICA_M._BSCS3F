@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    background-color: green;
+}
+
+.container div {
+    background-color: yellowgreen;
+    margin: 200px;
+    padding: 100px;
+    font-size: medium;
+    width: 500px;
+}
+
+.footer {
+    background-color: green;
+    padding: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
