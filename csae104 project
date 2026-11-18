@@ -1,0 +1,11 @@
+  {
+      "week": 1,
+      "lecture": 100,
+      "laboratory": 0,
+      "labDone": 0,
+      "labTotal": 16,
+      "quiz": {
+        "best": 5,
+        "total": 5
+      }
+    },
